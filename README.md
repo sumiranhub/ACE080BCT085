@@ -2,7 +2,7 @@
 (This project has been done individually )
 # Project on Linear and Logistic Regression
 ## Project Overview
-This project includes both the linear regression on Ecommers Clinets and Logistic regression on Breast Cancer Diagnosis. According to the requirements only one of the two regression method was asked but due to the use of sklearn.linear_model import LinearRegression in Linear Regression for simplicity due to execution problem, I dicided to try Logistic Regression without using the function.
+This project includes both the linear regression on Ecommers Clinets and Logistic regression on Breast Cancer Diagnosis. According to the requirements only one of the two regression method was asked but due to the use of sklearn.linear_model import LinearRegression in Linear Regression for simplicity due to execution problem, I decided to try Logistic Regression without using the function.
 ## Dataset used for Linear Regression
 Dataset [available on Kaggle](https://www.kaggle.com/datasets/kolawale/focusing-on-mobile-app-or-website). The data includes information about customers of an e-commerce website, including the following:  
 Avg. Session Length: Average session of in-store style advice sessions  
